@@ -1,0 +1,27 @@
+
+.hero{
+  align-content: center;
+  max-width: 650px;
+  image-orientation: center;
+}
+
+.main {
+  font-family: sans-serif;
+  max-width: none;
+  max-height: 1300px;
+}
+
+h2 {
+  font-weight: bold;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+h3 {
+
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
